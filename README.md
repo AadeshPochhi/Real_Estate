@@ -7,6 +7,9 @@ RealEstateManager offers efficient property management using SQL, JavaFX, and AW
 - Leverages AWS database for scalability and reliability.
 - Enhances real estate operations with cloud-based efficiency.
 
+# ER Diagram
+https://www.figma.com/file/5KjeDfhcwWMF4HAxEXzBdR/4_diwar.com?node-id=0%3A1&t=dqPpHtMGSyVxfQxO-1
+
 ## Screenshots
 
 ### Welcome Screen
